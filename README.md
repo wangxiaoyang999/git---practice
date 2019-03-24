@@ -1,1 +1,1 @@
-# I am a new comer git.
+# I am a new comer of git.
